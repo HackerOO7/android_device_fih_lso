@@ -1,0 +1,2 @@
+add_lunch_combo cm_lso-userdebug
+add_lunch_combo cm_lso-eng
