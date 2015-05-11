@@ -8,7 +8,7 @@ PRODUCT_RELEASE_NAME :=
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/infocus/lso/device_lso.mk)
+$(call inherit-product, device/fih/lso/device_lso.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := lso
